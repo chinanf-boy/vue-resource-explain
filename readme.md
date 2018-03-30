@@ -485,9 +485,9 @@ export function when(value, fulfilled, rejected) {
 
 ---
 
-又捋一捋
+又捋一捋, 配合[ JSbin.com - example ](http://jsbin.com/dogarat/7/edit?js,console)
 
-多层 `Promise` 时刻注意⚠️第一层
+多层 `Promise` 时刻注意⚠️第一层 
 
 1. `response = handler.call(context, request, val => next = val) || next;`
 
